@@ -5,7 +5,8 @@ body {
 }
 
 .form {
-  width: 400px;
+  width: 100%;
+  max-width: 360px;
   position: absolute;
   top: 50%;
   left: 50%;

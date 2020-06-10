@@ -42,8 +42,6 @@ export const RenderSelect = (props) => {
 
   return (
     <Select
-      labelId="demo-simple-select-outlined-label"
-      id="demo-simple-select-outlined"
       required
       fullWidth
       variant="outlined"
